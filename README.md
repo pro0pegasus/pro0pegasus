@@ -1,16 +1,39 @@
-## Hi there 👋
+# Welcome to My GitHub Repository! 👋
 
-<!--
-**pro0pegasus/pro0pegasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Yassine Borak**, a front-end developer and aspiring software engineer with a passion for creating sleek, user-friendly web applications. This repository showcases some of the projects, experiments, and ideas I'm working on to grow as a developer.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End Focus:** React.js, Next.js, and modern web design principles.
+- **Background:** Final-year BA in English student, ALX coding community member, and entrepreneur in metallic construction.
+- **Certification:** Completed a rigorous 12-month ALX Software Engineering program, specialising in front-end development, with a strong focus on modern web technologies and best practices.
+
+### Highlights of the ALX Program:
+- **C Programming:** Mastered core concepts such as functions, pointers, data structures, memory management, and algorithms.
+- **Python Development:** Learned object-oriented programming, test-driven development, error handling, and web scraping.
+- **Linux Systems:** Explored shell scripting, processes, signals, and system calls.
+- **Web Development:** Built foundational skills in HTML, CSS, JavaScript, and APIs.
+- **DevOps & Networking:** Gained experience with servers, load balancers, SSL/TLS, and configuration management tools.
+- **Capstone Projects:** Worked on real-world applications like the Airbnb project and collaborative deployments.
+
+- **Specialisation:** Front-end development, focusing on building modern, responsive, and accessible web applications.
+
+## 🚀 What You'll Find Here
+
+- Interactive front-end projects
+- Learning experiments with Next.js, and other technologies
+- Community-driven collaborations
+
+## 🤝 Let’s Collaborate!
+
+I’m always excited to network and work with other developers. If you’re interested:
+
+1. Follow me here on GitHub.
+2. Comment on one of my projects.
+3. Let’s build something amazing together!
+
+## 📩 Get in Touch
+
+- **Email:** [yassineborak@gmail.com]
+
+Thank you for stopping by! 🌟
