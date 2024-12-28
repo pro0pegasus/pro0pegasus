@@ -34,6 +34,6 @@ I’m always excited to network and work with other developers. If you’re inte
 
 ## 📩 Get in Touch
 
-- **Email:** [yassineborak@gmail.com]
+- **Email:** yassineborak@gmail.com
 
 Thank you for stopping by! 🌟
