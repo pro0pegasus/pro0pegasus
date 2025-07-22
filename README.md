@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository! 👋
 
-Hi, I'm **Yassine Borak**, a front-end developer and aspiring software engineer with a passion for creating sleek, user-friendly web applications. This repository showcases some of the projects, experiments, and ideas I'm working on to grow as a developer.
+Hi, I'm **Yassine Borak**, a Full-Stack Developer and aspiring software engineer with a passion for creating sleek, user-friendly web applications. This repository showcases some of the projects, experiments, and ideas I'm working on to grow as a developer.
 
 ## 🌟 About Me
 
