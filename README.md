@@ -5,7 +5,7 @@ Hi, I'm **Yassine Borak**, a front-end developer and aspiring software engineer 
 ## 🌟 About Me
 
 - **Front-End Focus:** React.js, Next.js, and modern web design principles.
-- **Background:** Final-year BA in English student, ALX coding community member, and entrepreneur in metallic construction.
+- **Background:** Final-year BA in English student, ALX coding community member, and entrepreneur.
 - **Certification:** Completed a rigorous 12-month ALX Software Engineering program, specialising in front-end development, with a strong focus on modern web technologies and best practices.
 
 ### Highlights of the ALX Program:
