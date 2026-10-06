@@ -1,4 +1,4 @@
-<h1 align="center">Welcome in my degital world 👋</h1>
+<h1 align="center">Welcome! You have been summoned to my magical realm 🧙✨</h1>
 
 ###
 
@@ -52,7 +52,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pro0pegasus/pro0pegasus/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pro0pegasus/pro0pegasus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pro0pegasus/pro0pegasus/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
